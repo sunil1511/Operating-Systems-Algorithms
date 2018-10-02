@@ -1,0 +1,5 @@
+AD 1 C 200
+IS 1 2 S 0
+IS 2 1 S 1
+IS 3 3 S 1
+AD 2
